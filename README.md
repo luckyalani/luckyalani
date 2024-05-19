@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucky Alani</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🙌 I’m currently working on [Shopify Platform](https://joyorganics.com/?convert_action=convert_vpreview&convert_e=100477398&convert_v=1004188035)
+- 🙌  worked on [Shopify Platform](https://joyorganics.com/?convert_action=convert_vpreview&convert_e=100477398&convert_v=1004188035)
 
 - 👨‍💻 All of my projects are available at [https://github.com/dashboard](https://github.com/dashboard)
 
