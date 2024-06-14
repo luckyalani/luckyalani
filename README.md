@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lucky Alani</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🙌  worked on [Shopify Platform](https://joyorganics.com/?convert_action=convert_vpreview&convert_e=100477398&convert_v=1004188035)
+- 🙌  worked on Frontend  [Habot](https://habot.io/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/dashboard](https://github.com/dashboard)
+- 👨‍💻 All of my projects are available at [https://github.com/luckyalani)
 
 - 📫 How to reach me **luckyalani665@gmail.com**
 
