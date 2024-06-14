@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucky Alani</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🙌  worked on Frontend  [Habot](https://habot.io/)
+- 🙌  worked at Omnify Remote  [NextJS](https://omnify-completed-task-git-main-lucky-alani.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/luckyalani)
 
