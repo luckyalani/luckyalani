@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucky Alani</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate React developer from India</h3>
 
 - 🙌  worked at  React framework  [NextJS](https://omnify-completed-task-git-main-lucky-alani.vercel.app/)
 
