@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Lucky Alani</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🙌  worked at Omnify Remote  [NextJS](https://omnify-completed-task-git-main-lucky-alani.vercel.app/)
+- 🙌  worked at  React framework  [NextJS](https://omnify-completed-task-git-main-lucky-alani.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/luckyalani)
 
 - 📫 How to reach me **luckyalani665@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KYV5jGf3E6a55g4BZd27MzgoWP46wT6W/view?usp=sharing](https://drive.google.com/file/d/1KYV5jGf3E6a55g4BZd27MzgoWP46wT6W/view?usp=sharing)
+- 📄 Know about my experiences 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
